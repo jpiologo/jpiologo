@@ -5,7 +5,7 @@ Hi there! My name is João Piologo 👋
 
 <p align="center">
 Welcome to my workspace, I hope you enjoy it.
-</p><br>
+</p>
 
 <h2 align="center">
 Contact 📫
