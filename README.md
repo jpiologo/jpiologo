@@ -34,7 +34,7 @@ Additional Infos
 <p>
 • 20 years <br>
 • Living in Curitiba - PR, Brazil
-• Study new languages is algo an hobbie. I can speak: <br><br>
+• Study new languages is also an hobbie for me. I can speak: <br><br>
 &nbsp&nbsp&nbsp&nbsp- Portuguese - Fluent<br>
 &nbsp&nbsp&nbsp&nbsp- English - Advanced<br>
 &nbsp&nbsp&nbsp&nbsp- Spanish - Basic
