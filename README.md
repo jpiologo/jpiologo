@@ -27,7 +27,7 @@ Tech Stack <br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)
 
 <h2 align="center">
 Additional Infos
