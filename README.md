@@ -33,7 +33,7 @@ Tech Stack <br>
 Additional Infos
 </h2>
 <p>
-• 20 years <br>
+• 21 years <br>
 • Living in Curitiba - PR, Brazil
 • Study new languages is also an hobbie for me. I can speak: <br><br>
 &nbsp&nbsp&nbsp&nbsp- Portuguese - Fluent<br>
