@@ -39,11 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&theme=radical" alt="jpiologo's GitHub stats">
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpiologo&theme=radical" alt="jpiologo's GitHub streak stats">
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpiologo&theme=radical)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact&theme=radical" alt="jpiologo's top languages">
