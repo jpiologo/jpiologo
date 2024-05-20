@@ -51,7 +51,7 @@
 
 ## 🌍 Languages I Speak
 
-- 🇬🇧 English (Advanced)
+- 🇺🇸 English (Advanced)
 - 🇧🇷 Brazilian Portuguese (Fluent)
 - 🇪🇸 Spanish (Basic)
 
