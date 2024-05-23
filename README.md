@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Fokus App Project (Private Repository)]**
+- 🔭 I’m currently working on **[Fokus App Project]**
 - 🌱 I’m currently learning **[JavaScript, React, Frameworks, Git]**
 - 💬 Ask me about **C/C++, HTML5, CSS3, JavaScript**
 - 📫 How to reach me: **[joaotpiologo@hotmail.com]**
