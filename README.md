@@ -68,6 +68,6 @@
 
 ## 📍 Location & Education
 
-- 🌍 I live in Curitiba, Brazil
+- 🌍 I live in Curitiba - Brazil
 - 📚 I'm currently in my fifth semester of Software Engineering
 - 🎂 I'm 21 years old
