@@ -61,5 +61,3 @@
 </p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/jpiologo/jpiologo/output/snake.svg" alt="Snake animation" />
