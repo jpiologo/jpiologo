@@ -59,3 +59,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact&theme=radical" alt="jpiologo's top languages">
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/jpiologo/jpiologo/output/snake.svg" alt="Snake animation" />
