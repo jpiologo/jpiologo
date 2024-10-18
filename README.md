@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on Java OOP.<br>🎯 Goals: Fullstack Development.<br>🎲 Fun fact: Dungeon Master and Basketball player on free times.<br>📫 How to reach me: joaotpiologo@hotmail.com</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on Java OOP and graduating in Software Engineering.<br>🎯 Goals: Fullstack Development.<br>🎲 Fun fact: Dungeon Master and Basketball player on free times.<br>📫 How to reach me: joaotpiologo@hotmail.com</p>
 
 ###
 
