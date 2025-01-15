@@ -19,19 +19,36 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/c-original.svg" height="40" alt="C"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/cpp.svg" height="40" alt="C++"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/html.svg" height="40" alt="HTML5"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/css.svg" height="40" alt="CSS3"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/js.svg" height="40" alt="JavaScript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/java.svg" height="40" alt="Java"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/sql.svg" height="40" alt="SQL"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">Frameworks and Technologies</h2>
+
+###
+
+<div align="left">
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/bootstrap.svg" height="40" alt="Bootstrap"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/git.svg" height="40" alt="Git"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/nodejs.svg" height="40" alt="NodeJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/react.svg" height="40" alt="ReactJS"  />
   <img width="12" />
 </div>
 
