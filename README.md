@@ -54,7 +54,7 @@
 
 ###
 
-## 🌍 Languages I Speak
+## Languages I Speak 🌍
 
 - 🇺🇸 English-US (Fluent)
 - 🇧🇷 Portuguese-BR (Fluent)
@@ -62,7 +62,7 @@
 
 ###
 
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact" alt="jpiologo's GitHub stats">
