@@ -9,7 +9,7 @@
 <h2 align="left">About me 🚀</h2>
 
 ###
-<p>[My Portfolio](https://portfolio-eight-kappa-69.vercel.app/)</p>
+[My Portfolio](https://portfolio-eight-kappa-69.vercel.app/)
 <p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on Java OOP and graduating in Software Engineering.<br>🎯 Goals: Fullstack Development.<br>🎲 Fun fact: Dungeon Master and Basketball player on free times.<br>📫 How to reach me: joaotpiologo@hotmail.com</p>
 
 ###
@@ -66,8 +66,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact" alt="jpiologo's GitHub stats">
+  ![jpiologo's github stats](https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=[%22issues%22])
 </p>
-
-![jpiologo's github stats](https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=[%22issues%22])
 
 ###
