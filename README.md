@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&theme=radical" alt="jpiologo's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact" alt="jpiologo's GitHub stats">
 </p>
 
 <p align="center">
