@@ -64,9 +64,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact" alt="jpiologo's GitHub stats">
-  ![jpiologo's github stats](https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=[%22issues%22])
 </p>
+
+![jpiologo's github stats](https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=[%22issues%22])
 
 ###
