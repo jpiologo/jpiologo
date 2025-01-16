@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">Frameworks and Technologies</h2>
+<h2 align="left">Frameworks and Technologies 💻</h2>
 
 ###
 
