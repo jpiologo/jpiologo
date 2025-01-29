@@ -10,7 +10,6 @@
 
 ###
 <a href="https://portfolio-eight-kappa-69.vercel.app/" target="_blank">My Portfolio</a>
-[My Portfolio](https://portfolio-eight-kappa-69.vercel.app/)
 <p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on Programming in ReactJS and graduating in Software Engineering.<br>🎯 Goals: Fullstack Development.<br>🎲 Fun fact: Dungeon Master and Basketball player on free times.<br>📫 How to reach me: joaotpiologo@hotmail.com</p>
 
 ###
