@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/sql.svg" height="40" alt="SQL"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/nextjs-fill-svgrepo-com.svg" height="40" alt="SQL"  />
+  <img width="12" />
 </div>
 
 ###
