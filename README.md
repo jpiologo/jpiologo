@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/sql.svg" height="40" alt="SQL"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/nextjs-fill-svgrepo-com.svg" height="40" alt="SQL"  />
-  <img width="12" />
 </div>
 
 ###
@@ -51,6 +49,8 @@
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/nodejs.svg" height="40" alt="NodeJS"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/react.svg" height="40" alt="ReactJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/nextjs-fill-svgrepo-com.svg" height="40" alt="SQL"  />
   <img width="12" />
 </div>
 
