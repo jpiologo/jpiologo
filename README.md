@@ -29,11 +29,11 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/js.svg" height="40" alt="JavaScript"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/typescript.svg" height="50" alt="Typescript"  />
+  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/java.svg" height="40" alt="Java"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/sql.svg" height="40" alt="SQL"  />
-  <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/typescript.svg" height="50" alt="Typescript"  />
   <img width="12" />
 </div>
 
