@@ -72,8 +72,15 @@
 
 ## GitHub Stats 📊
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact" alt="jpiologo's GitHub stats">
-
-![jpiologo's github stats](https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=[%22issues%22])
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact" alt="jpiologo's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=issues" alt="jpiologo's GitHub stats">
+    </td>
+  </tr>
+</table>
 
 ###
