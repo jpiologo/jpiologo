@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/CSS.svg" height="40" alt="CSS3"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TailwindCSS-Dark.svg" height="40" alt="TailwindCSS"  />
+  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/JavaScript.svg" height="40" alt="JavaScript"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Java-Light.svg" height="40" alt="Java"  />
@@ -44,15 +46,15 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/bootstrap.svg" height="40" alt="Bootstrap"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/NextJS-Dark.svg" height="40" alt="NextJS"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/git.svg" height="40" alt="Git"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Git.svg" height="40" alt="Git"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/nodejs.svg" height="40" alt="NodeJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/NodeJS.svg" height="40" alt="NodeJS"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/react.svg" height="40" alt="ReactJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/React-Dark.svg" height="40" alt="ReactJS"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/nextjs-fill-svgrepo-com.svg" height="40" alt="SQL"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Postman.svg" height="40" alt="Postman"  />
   <img width="12" />
 </div>
 
