@@ -19,21 +19,21 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/c-original.svg" height="40" alt="C"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/C.svg" height="40" alt="C"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/cpp.svg" height="40" alt="C++"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/CPP.svg" height="40" alt="C++"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/html.svg" height="40" alt="HTML5"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/HTML.svg" height="40" alt="HTML5"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/css.svg" height="40" alt="CSS3"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/CSS.svg" height="40" alt="CSS3"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/js.svg" height="40" alt="JavaScript"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/JavaScript.svg" height="40" alt="JavaScript"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/java.svg" height="40" alt="Java"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Java-Light.svg" height="40" alt="Java"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/sql.svg" height="40" alt="SQL"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/PostgreSQL-Dark.svg" height="40" alt="SQL"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/typescript.svg" height="40" alt="Typescript"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TypeScript.svg" height="40" alt="Typescript"  />
   <img width="12" />
 </div>
 
