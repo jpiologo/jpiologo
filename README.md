@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Java-Light.svg" height="40" alt="Java"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/MySQL-Light.svg" height="40" alt="SQL"  />
+  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/PostgreSQL-Dark.svg" height="40" alt="SQL"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/HTML.svg" height="40" alt="HTML5"  />
