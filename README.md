@@ -23,17 +23,17 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/CPP.svg" height="40" alt="C++"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Java-Light.svg" height="40" alt="Java"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/PostgreSQL-Dark.svg" height="40" alt="SQL"  />
+  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/HTML.svg" height="40" alt="HTML5"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/CSS.svg" height="40" alt="CSS3"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TailwindCSS-Dark.svg" height="40" alt="TailwindCSS"  />
-  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/JavaScript.svg" height="40" alt="JavaScript"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Java-Light.svg" height="40" alt="Java"  />
-  <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/PostgreSQL-Dark.svg" height="40" alt="SQL"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TailwindCSS-Dark.svg" height="40" alt="TailwindCSS"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TypeScript.svg" height="40" alt="Typescript"  />
   <img width="12" />
@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Git.svg" height="40" alt="Git"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/NodeJS.svg" height="40" alt="NodeJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/NodeJS-Dark.svg" height="40" alt="NodeJS"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/React-Dark.svg" height="40" alt="ReactJS"  />
   <img width="12" />
