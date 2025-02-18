@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/js.svg" height="40" alt="JavaScript"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/typescript.svg" height="40" width="20" alt="Typescript"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/images/typescript.svg" height="40" width="100" alt="Typescript"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/images/java.svg" height="40" alt="Java"  />
   <img width="12" />
