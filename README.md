@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Piologo, and I'm a Software Engineer student, from Curitiba-PR, Brazil.</p>
+<p align="left">My name is João Piologo, and I'm a Software Engineer student, from Curitiba, PR - Brazil.</p>
 
 ###
 
