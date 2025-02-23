@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on graduating in Software Engineering and developing a personal project named "Complainer Brasil".<br>🎯 Goals: Fullstack Development.<br>🎲 Fun fact: Dungeon Master ( -> When I'm into it <- ).<br>📫 How to reach me: <a href="https://dev-piologo.vercel.app/" target="_blank">My Portfolio</a></p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on graduating in Software Engineering and developing my personal projects.<br>🎯 Goals: Fullstack Development.<br>🎲 Fun fact: Dungeon Master ( -> When I'm into it <- ).<br>📫 How to reach me: <a href="https://dev-piologo.vercel.app/" target="_blank">My Portfolio</a></p>
 
 ###
 
