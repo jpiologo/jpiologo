@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact" alt="jpiologo's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact&theme=dark" alt="jpiologo's GitHub stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=issues" alt="jpiologo's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=issues&theme=dark" alt="jpiologo's GitHub stats">
     </td>
   </tr>
 </table>
