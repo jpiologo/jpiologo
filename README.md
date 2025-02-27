@@ -81,7 +81,6 @@
 
 - 🇺🇸 English-US (Fluent)
 - 🇧🇷 Portuguese-BR (Fluent)
-- 🇪🇸 Spanish (Basic)
 
 ###
 
