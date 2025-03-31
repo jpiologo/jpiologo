@@ -73,6 +73,8 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Postman.svg" height="40" alt="Postman"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Electron.svg" height="40" alt="Postman"  />
+  <img width="12" />
 </div>
 
 ###
