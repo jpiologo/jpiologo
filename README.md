@@ -85,8 +85,9 @@
 
 ## Languages I Speak 🌍
 
-- 🇺🇸 English-US (Fluent)
-- 🇧🇷 Portuguese-BR (Fluent)
+- 🇺🇸 English-US (C2)
+- 🇧🇷 Portuguese-BR (C2)
+- 🇩🇪 Deutsch (A1)
 
 ###
 
