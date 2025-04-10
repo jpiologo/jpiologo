@@ -54,6 +54,8 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TypeScript.svg" height="40" alt="Typescript"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Prisma.svg" height="40" alt="Typescript"  />
+  <img width="12" />
 </div>
 
 ###
