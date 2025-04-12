@@ -1,8 +1,8 @@
-<h1 align="left">Hello There!👋</h1>
+<h1 align="left">Hello There, dev!👋</h1>
 
 ###
 
-<p align="left">My name is João Piologo, and I'm a Software Engineer, from Curitiba, PR - Brazil.</p>
+<p align="left">My name is João Gabriel Tulio Piologo, and I'm a Software Engineer, from Curitiba, PR - Brazil.</p>
 
 ###
 
