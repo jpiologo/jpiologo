@@ -50,8 +50,6 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/JavaScript.svg" height="40" alt="JavaScript"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TailwindCSS-Dark.svg" height="40" alt="TailwindCSS"  />
-  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TypeScript.svg" height="40" alt="Typescript"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Prisma.svg" height="40" alt="Typescript"  />
@@ -73,11 +71,25 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/React-Dark.svg" height="40" alt="ReactJS"  />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TailwindCSS-Dark.svg" height="40" alt="TailwindCSS"  />
+  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Postman.svg" height="40" alt="Postman"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Electron.svg" height="40" alt="Postman"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/NestJS-Dark.svg" height="40" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Docker.svg" height="40" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/JQuery.svg" height="40" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Notion-Light.svg" height="40" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Sass.svg" height="40" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Supabase-Dark.svg" height="40" alt="NestJS"  />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Bootstrap.svg" height="40" alt="NestJS"  />
   <img width="12" />
 </div>
 
