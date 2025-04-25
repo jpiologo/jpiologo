@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on graduating in Software Engineering and developing my very own SaaS, called CleanUp.<br>🎯 Goals: Create technologies that can help people to have a better quality of life.<br>🎲 Fun fact: Dungeon Master and Basketball player.<br>📫 How to reach me: <a href="https://www.devpiologo.com/" target="_blank">My Portfolio</a></p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently focusing on graduating in Software Engineering, developing my very own SaaS, called CleanUp and learning how to speak Deutsch.<br>🎯 Goals: Create technologies that can help people to have a better quality of life.<br>🎲 Fun fact: Dungeon Master and Basketball player.<br>📫 How to reach me: <a href="https://www.devpiologo.com/" target="_blank">My Portfolio</a></p>
 
 ###
 
