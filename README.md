@@ -75,21 +75,21 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Postman.svg" height="40" alt="Postman"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Electron.svg" height="40" alt="Postman"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Electron.svg" height="40" alt="Electron"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/NestJS-Dark.svg" height="40" alt="NestJS"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Docker.svg" height="40" alt="NestJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Docker.svg" height="40" alt="Docker"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/JQuery.svg" height="40" alt="NestJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/JQuery.svg" height="40" alt="jQuery"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Notion-Light.svg" height="40" alt="NestJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Notion-Light.svg" height="40" alt="Notion"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Sass.svg" height="40" alt="NestJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Sass.svg" height="40" alt="SaaS"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Supabase-Dark.svg" height="40" alt="NestJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Supabase-Dark.svg" height="40" alt="Supabase"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Bootstrap.svg" height="40" alt="NestJS"  />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Bootstrap.svg" height="40" alt="BootStrap"  />
   <img width="12" />
 </div>
 
