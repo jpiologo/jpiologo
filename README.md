@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/C.svg" height="40" alt="C"  />
+  <img src="./imgs/C.svg" height="40" alt="C"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/CPP.svg" height="40" alt="C++"  />
   <img width="12" />
