@@ -36,7 +36,7 @@
 <div align="left">
   <img src="./imgs/C.svg" height="40" alt="C"  />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/CPP.svg" height="40" alt="C++"  />
+  <img src="./imgs/CPP.svg" height="40" alt="C++"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Java-Light.svg" height="40" alt="Java"  />
   <img width="12" />
