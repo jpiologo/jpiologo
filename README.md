@@ -54,6 +54,7 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Prisma.svg" height="40" alt="Prisma ORM"  />
   <img width="12" />
+  <svg width="40" height="40"><use href="./icons/Prisma.svg"></use></svg>
 </div>
 
 ###
