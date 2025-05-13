@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="./imgs/CPP.svg" height="40" alt="C++" loading="lazy" />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Java-Light.svg" height="40" alt="Java"  />
+  <img src="./imgs/Java-Light.svg" height="40" alt="Java"  />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/MySQL-Light.svg" height="40" alt="SQL"  />
   <img width="12" />
