@@ -7,7 +7,7 @@
 <p align="left">
   ✨ Creating bugs since 2022.<br>
   📚 I'm currently focusing on finishing my studies at Software Engineering, developing my very own SaaS called CleanUp and     learning how to speak German.<br>
-  🎯 I Inspire and empower people by harnessing the transformative power of technology.<br>
+  🎯 I strive to inspire and empower people by harnessing the transformative power of technology.<br>
   🎲 Fun fact: My very first line of code was written in Python.<br>
   📫 How to reach me: <a href="https://www.devpiologo.com/">My Portfolio</a>
 </p>
