@@ -1,28 +1,15 @@
-<h1 align="left">Hello There!👋</h1>
+<h1 align="left">Hello There!👋👨🏼‍💻</h1>
 
-<p align="left">My name is João Piologo, and I'm a Software Engineer, from Curitiba, PR - Brazil.</p>
-
-## GitHub Stats 📊
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact&theme=dark" alt="Top languages used by jpiologo" loading="lazy" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&hide=issues&theme=dark" alt="GitHub stats for jpiologo" loading="lazy" />
-    </td>
-  </tr>
-</table>
+<p align="left">My name is João Piologo, and I'm a Software Engineer student, from Curitiba, Paraná. I spend my days transforming ideas into code that removes friction from real-world taks. Over the past few years I've built and launched mostly web solutions that range from back-office suites to smooth, customer plataforms, always working end‑to‑end—sketching the concept, designing the architecture, writing the implementation, and polishing the interface.</p>
 
 ## About me 🚀
 
 <p align="left">
-✨ Creating bugs since 2022.<br>
-📚 I'm currently focusing on graduating in Software Engineering, developing my very own SaaS, called CleanUp and learning how to speak Deutsch.<br>
-🎯 Goals: Create technologies that can help people to have a better quality of life.<br>
-🎲 Fun fact: Dungeon Master and Basketball player.<br>
-📫 How to reach me: <a href="https://www.devpiologo.com/">My Portfolio</a>
+  ✨ Creating bugs since 2022.<br>
+  📚 I'm currently focusing on finishing my studies at Software Engineering, developing my very own SaaS called CleanUp and     learning how to speak German.<br>
+  🎯 I Inspire and empower people by harnessing the transformative power of technology.<br>
+  🎲 Fun fact: My very first line of code was written in Python.<br>
+  📫 How to reach me: <a href="https://www.devpiologo.com/">My Portfolio</a>
 </p>
 
 ## I code with 👨🏼‍💻
@@ -85,4 +72,4 @@
 
 - 🇺🇸 English-US (C2)  
 - 🇧🇷 Portuguese-BR (C2)  
-- 🇩🇪 Deutsch (A1)
+- 🇩🇪 German (A1)
