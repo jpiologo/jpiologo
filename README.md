@@ -66,6 +66,9 @@
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Supabase-Dark.svg" height="40" alt="Supabase" loading="lazy" />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Bootstrap.svg" height="40" alt="Bootstrap" loading="lazy" />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Cloudflare-Light.svg" height="40" alt="Bootstrap" loading="lazy" />
+  <img width="12" />
 </div>
 
 ## Languages I Speak 🌍
