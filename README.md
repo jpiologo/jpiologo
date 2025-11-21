@@ -7,7 +7,7 @@
 <p align="left">
   ✨ Since 2022.<br>
   📚 I'm currently focusing on finishing my studies at Software Engineering.<br>
-  🎯 <blockquote>“Everything you can imagine is real.”<br>— Pablo Picasso</blockquote><br>
+  🎯 <i>“Everything you can imagine is real.” — Pablo Picasso</i><br>
   🎲 Fun fact: My very first line of code was written in Python.<br>
   📫 How to reach me: <a href="https://www.devpiologo.com/">My Portfolio</a>
 </p>
