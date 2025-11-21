@@ -55,6 +55,10 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/NestJS-Dark.svg" height="40" alt="NestJS" loading="lazy" />
   <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Spring-Dark.svg" height="40" alt="Spring Boot" loading="lazy" />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Maven-Dark.svg" height="40" alt="Maven" loading="lazy" />
+  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Docker.svg" height="40" alt="Docker" loading="lazy" />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/JQuery.svg" height="40" alt="jQuery" loading="lazy" />
