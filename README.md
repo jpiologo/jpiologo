@@ -51,8 +51,6 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/Postman.svg" height="40" alt="Postman" loading="lazy" />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Electron.svg" height="40" alt="Electron" loading="lazy" />
-  <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/NestJS-Dark.svg" height="40" alt="NestJS" loading="lazy" />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Spring-Dark.svg" height="40" alt="Spring Boot" loading="lazy" />
