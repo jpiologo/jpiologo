@@ -5,9 +5,9 @@
 ## About me 🚀
 
 <p align="left">
-  ✨ Creating bugs since 2022.<br>
-  📚 I'm currently focusing on finishing my studies at Software Engineering, developing my very own SaaS called CleanUp and learning to speak German.<br>
-  🎯 I strive to inspire and empower people by harnessing the transformative power of technology.<br>
+  ✨ Since 2022.<br>
+  📚 I'm currently focusing on finishing my studies at Software Engineering.<br>
+  🎯 <blockquote>“Everything you can imagine is real.”<br>— Pablo Picasso</blockquote><br>
   🎲 Fun fact: My very first line of code was written in Python.<br>
   📫 How to reach me: <a href="https://www.devpiologo.com/">My Portfolio</a>
 </p>
@@ -76,5 +76,4 @@
 ## Languages I Speak 🌍
 
 - 🇺🇸 English-US (C2)  
-- 🇧🇷 Portuguese-BR (C2)  
-- 🇩🇪 German (A1)
+- 🇧🇷 Portuguese-BR (C2)
