@@ -5,7 +5,7 @@
 ## About me 🚀
 
 <p align="left">
-  ✨ Since 2022.<br>
+  ✨ Since 2021.<br>
   📚 I'm currently focusing on finishing my studies at Software Engineering.<br>
   🎯 <i>“Everything you can imagine is real.” — Pablo Picasso</i><br>
   🎲 Fun fact: My very first line of code was written in Python.<br>
