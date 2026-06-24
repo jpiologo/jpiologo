@@ -86,14 +86,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpiologo&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</div>
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=jpiologo&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
-</div>
-
 ## Languages I Speak 🌍
 
 - 🇺🇸 English-US (C2)
