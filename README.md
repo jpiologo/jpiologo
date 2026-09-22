@@ -41,6 +41,11 @@
   <img src="https://github.com/jpiologo/jpiologo/blob/main/imgs/TypeScript.svg" height="40" alt="TypeScript" loading="lazy" />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Prisma.svg" height="40" alt="Prisma ORM" loading="lazy" />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/CS.svg" height="40" alt="Prisma ORM" loading="lazy" />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/DotNet.svg" height="40" alt="Prisma ORM" loading="lazy" />
+  <img width="12" />
 </div>
 
 ## Frameworks and Technologies 💻
@@ -77,13 +82,7 @@
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Bootstrap.svg" height="40" alt="Bootstrap" loading="lazy" />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Cloudflare-Light.svg" height="40" alt="Cloudflare" loading="lazy" />
-</div>
-
-## My GitHub Stats 📊
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpiologo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="João's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpiologo&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img width="12" />
 </div>
 
 ## Languages I Speak 🌍
