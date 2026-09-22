@@ -42,9 +42,7 @@
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Prisma.svg" height="40" alt="Prisma ORM" loading="lazy" />
   <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/CS.svg" height="40" alt="Prisma ORM" loading="lazy" />
-  <img width="12" />
-  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/DotNet.svg" height="40" alt="Prisma ORM" loading="lazy" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/CS.svg" height="40" alt="C#" loading="lazy" />
   <img width="12" />
 </div>
 
@@ -82,6 +80,8 @@
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Bootstrap.svg" height="40" alt="Bootstrap" loading="lazy" />
   <img width="12" />
   <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/Cloudflare-Light.svg" height="40" alt="Cloudflare" loading="lazy" />
+  <img width="12" />
+  <img src="https://github.com/jpiologo/jpiologo/blob/main/icons/DotNet.svg" height="40" alt=".NET" loading="lazy" />
   <img width="12" />
 </div>
 
